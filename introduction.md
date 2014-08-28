@@ -5,3 +5,4 @@ Deadly Skillz
 * Ruby
 * Javascript
 * Hoola-hooping
+* Killing history using git rebase
